@@ -1,7 +1,7 @@
 ![MasterHead](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif)
 <h1 align="center">Hi 👋, I'm Tamilarasan Pandiyan</h1>
 <h3 align="center">A passionate AI/ML engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://graphixpower.net/assets/images/portfolio/gif/item9.gif">
+<img align="right" alt="Coding" width="400" src="	https://user-images.githubusercontent.com/59453698…78947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikandansns&label=Profile%20views&color=0e75b6&style=flat" alt="manikandansns" /> </p>
 
