@@ -24,8 +24,8 @@
   
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manikandansns&show_icons=true&locale=en&layout=compact" alt="manikandansns" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tamilarasan-ai&show_icons=true&locale=en&layout=compact" alt="Tamilarasan-ai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manikandansns&show_icons=true&locale=en" alt="manikandansns" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tamilarasan-ai&show_icons=true&locale=en" alt="Tamilarasan-ai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manikandansns&" alt="manikandansns" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tamilarasan-ai&" alt="Tamilarasan-ai" /></p>
