@@ -4,7 +4,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="(![178947079-df3cd391-b419-4258-a542-b9a7e47e4351]https://github.com/user-attachments/assets/7ea00c4f-c7ce-4685-b31e-238795e25259)">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:750/1*63sGPbvLLpvlD16hG1bvmA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tamilarasan&label=Profile%20views&color=0e75b6&style=flat" alt="Tamilarasan" /> </p>
 
