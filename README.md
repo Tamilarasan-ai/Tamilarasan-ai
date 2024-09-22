@@ -1,13 +1,16 @@
 ![MasterHead](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif)
 <h1 align="center">Hi 👋, I'm Tamilarasan Pandiyan</h1>
 <h3 align="center">A passionate AI/ML engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="	https://user-images.githubusercontent.com/59453698…78947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manikandansns&label=Profile%20views&color=0e75b6&style=flat" alt="manikandansns" /> </p>
+
+
+<img align="right" alt="Coding" width="400" src="(![178947079-df3cd391-b419-4258-a542-b9a7e47e4351]https://github.com/user-attachments/assets/7ea00c4f-c7ce-4685-b31e-238795e25259)">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tamilarasan&label=Profile%20views&color=0e75b6&style=flat" alt="Tamilarasan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **tamilarasan.pandiyan.k@gmail.com**
 
